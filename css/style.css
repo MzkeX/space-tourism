@@ -1025,7 +1025,7 @@ body {
         background-position: top left;
     }
     .slider__inner {
-        padding: 50px 0;
+        padding: 0;
         margin-bottom: 30px;
     }
     .slider__desc {
@@ -1113,9 +1113,6 @@ body {
     .banner__box p+p {
         margin: 30px 0 0 0;
     }
-    .slider__inner {
-        padding: 40px 0;
-    }
     .services__box-list {
         width: 100%;
     }
@@ -1181,9 +1178,6 @@ body {
     .services__box-list {
         font-size: 18px;
         line-height: 24px;
-    }
-    .slider__arrow {
-        display: none !important;
     }
     .services__list {
         margin-bottom: 15px;
