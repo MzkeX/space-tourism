@@ -1183,7 +1183,7 @@ body {
         line-height: 24px;
     }
     .slider__arrow {
-        display: none;
+        display: none !important;
     }
     .services__list {
         margin-bottom: 15px;
